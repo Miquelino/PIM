@@ -27,6 +27,8 @@
     <string name="label_type_email">Digite seu e-mail</string>
     <string name="label_text_investiment">  Comece seu investimento na FoxCoin, aqui será encontrados as moedas disponíveis. LiteCoin, Stable e BitCoin. Faça seu investimento.</string>
     <string name="label_confirm">Confirmar</string>
+    <string name="label_slogan">A sua melhor escolha você encontra aqui, na FoxCoin</string>
+    <string name="label_sign_up_now">Crie sua conta agora</string>
 
     <string name="msg_register_success">Cliente %s regitrado com sucesso!</string>
     <string name="msg_update_success">Dados atualizados com sucesso.</string>
